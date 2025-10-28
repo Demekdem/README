@@ -3,7 +3,7 @@ Kierunek: Ekonometria i analityka danych  - 3 rok
 
 Cel zawodowy: Staż w zespole modelowania ryzyka lub data science, z naciskiem na analizę danych, eksplorację i budowę modeli predykcyjnych.
 
-## Projekt podczas praktyk w ASM Research Solutions Strategy 
+## Projekt zrealizowany podczas praktyk w ASM Research Solutions Strategy 
 - Opis: Skrypt w Stata automatyzujący proces tworzenia tabel przestawnych i raportów z danych ankietowych. Umożliwia szybkie generowanie statystyk opisowych i eksport wyników do Excela.
 - **Technologie**: Stata 
 - Link do repozytorium: https://github.com/Demekdem/Praktyki_ASM.git
