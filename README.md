@@ -1,7 +1,7 @@
 # 🎓 Portfolio - Demetriusz Romiński
 Kierunek: Ekonometria i analityka danych  - 3 rok 
 
-Cel zawodowy: Staż w zespole modelowania ryzyka lub data science, z naciskiem na analizę danych, eksplorację i budowę modeli predykcyjnych.
+Cel zawodowy: Staż w zespole analityki danych.
 
 ## Projekt zrealizowany podczas praktyk w ASM Research Solutions Strategy 
 - Opis: Skrypt w Stata automatyzujący proces tworzenia tabel przestawnych i raportów z danych ankietowych. Umożliwia szybkie generowanie statystyk opisowych i eksport wyników do Excela.
