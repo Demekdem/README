@@ -37,3 +37,7 @@ Cel zawodowy: Staż w zespole modelowania ryzyka lub data science, z naciskiem n
    - Opis: Zbudowano interaktywny dashboard Power BI prezentujące opinie studentów kierunku ekonometri i analityki danych. Analiza wspierała identyfikację kluczowych motywacji i trendów.
    - **Technologie**: Power BI | Power Query
    - Link do repozytorium: https://github.com/Demekdem/SurveyData_Excel_PowerBI.git
+
+**6. 📊 Analiza finansowa Wawel SA – 2023**
+   - Opis: Projekt polegał na przeglądzie i interpretacji sprawozdania finansowego Wawel SA za 2023 rok. Wnioski wskazują na stabilną sytuację finansową, dobrą efektywność operacyjną i możliwości lepszego wykorzystania nadwyżki gotówki.
+   - Link do repozytorium: https://github.com/Demekdem/Analiza_finansowa.git
