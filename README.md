@@ -34,6 +34,6 @@ Cel zawodowy: Staż w zespole modelowania ryzyka lub data science, z naciskiem n
    - Link do repozytorium: https://github.com/Demekdem/Eksploracyjna_analiza_danych.git
      
 **5. 🧾Wizualizacja badania ankietowego**
-   - Opis: Zbudowano interaktywne dashboardy Power BI prezentujące opinie studentów kierunków analitycznych. Analiza wspierała identyfikację kluczowych motywacji i trendów.
+   - Opis: Zbudowano interaktywny dashboard Power BI prezentujące opinie studentów kierunku ekonometri i analityki danych. Analiza wspierała identyfikację kluczowych motywacji i trendów.
    - **Technologie**: Power BI | Power Query
    - Link do repozytorium: https://github.com/Demekdem/SurveyData_Excel_PowerBI.git
