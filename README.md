@@ -28,4 +28,4 @@ Cel zawodowy: staż w zespole analityki danych.
 ## 5. Interaktywne dashboardy
 - Opis: Analiza ankiety przeprowadzanej na studentach ekonometrii i analityki danych. Analiza sprzedaży i trendów w branży budowlanej na podstawie anonimowych danych.
 - Technologie: PowerQuery, Power BI, Microsoft Forms
-- Link do repozytorium: https://github.com/Demekdem/AnalizaSzeregowCzasowych.git
+- Link do repozytorium: https://github.com/Demekdem/Dashbordy_PowerBI.git
